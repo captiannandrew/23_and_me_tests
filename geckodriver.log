@@ -1,0 +1,168 @@
+1487574598493	geckodriver	INFO	Listening on 127.0.0.1:52273
+1487574598751	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iHJcQNW7KrmT
+1487574598752	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1487574598807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43719
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:66:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:97:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:98:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:104:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:107:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:158:33: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:174:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:175:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:176:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:177:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:178:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:179:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:180:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:181:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:182:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:183:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:184:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:185:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:186:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:187:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:188:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:189:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:190:21: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:191:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:196:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:286:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:29538): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:309:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:29538): Gtk-WARNING **: Theme directory  imported-Humanity/192 of theme Lubuntu has no size field
+
+1487574600700	Marionette	INFO	Listening on port 43719
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:66:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:97:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:98:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:104:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:107:39: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:158:33: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:174:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:175:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:176:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:177:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:178:53: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:179:55: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:180:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:181:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:182:44: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:183:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:184:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:185:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:186:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:187:54: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:188:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:189:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:190:21: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:191:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:196:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:286:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(/usr/lib/firefox/plugin-container:29622): Gtk-WARNING **: Theme parsing error: gtk-lubuntu.css:309:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f04819a8c40' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f04819a8c40' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f04819a8c40' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f04819a8c40' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f04819a8c40' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0456b8a380' of type 'MaiAtkType319'
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:29538): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1487574633423	Marionette	WARN	Using deprecated data structure for setting timeouts
+1487574639201	Marionette	WARN	Using deprecated data structure for setting timeouts
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468b8c420' of type 'MaiAtkType139'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468f1eb00' of type 'MaiAtkType139'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468f1eb00' of type 'MaiAtkType139'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468769ce0' of type 'MaiAtkType139'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f045abcfd30' of type 'MaiAtkType319'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f045abcfd30' of type 'MaiAtkType319'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f045abcfd30' of type 'MaiAtkType319'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f045abcfd30' of type 'MaiAtkType319'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468b8ce20' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468b8ce20' of type 'MaiAtkType13b'
+
+(firefox:29538): GLib-GObject-WARNING **: /build/glib2.0-1CRe1z/glib2.0-2.50.2/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0468b8ce20' of type 'MaiAtkType13b'
